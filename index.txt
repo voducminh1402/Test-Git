@@ -1,1 +1,3 @@
 Git init 2:26
+2:43
+sua doi vao nhanh dev
